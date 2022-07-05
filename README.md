@@ -1,6 +1,7 @@
 # komorebi-e.github.io - personal GitHub website
 
-Site content by komorebi-e and formatting and code is wrapped by:
+[komorebi-e.github.io](https://komorebi-e.github.io) site content by komorebi-e, with Credly provided certificate badges for AWS and the CNCF.
+The theme and functional code is provided by:
 
 > Photon by HTML5 UP
 > [https://html5up.net/](html5up.net) @ajlkn
